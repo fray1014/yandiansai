@@ -1,0 +1,9 @@
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\History.csprojResolveAssemblyReference.cache
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\History.HistoryPlot.resources
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\HistroyPlot.Properties.Resources.resources
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\History.csproj.GenerateResource.Cache
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\History.csproj.CoreCompileInputs.cache
+D:\C#_Project\whj\WFPlot\HistroyPlot\bin\Debug\HistroyPlot.exe
+D:\C#_Project\whj\WFPlot\HistroyPlot\bin\Debug\HistroyPlot.pdb
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\HistroyPlot.exe
+D:\C#_Project\whj\WFPlot\HistroyPlot\obj\Debug\HistroyPlot.pdb

@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFPlot", "WFPlot\WFPlot.csproj", "{2899054C-BBCF-4702-98E2-C5E3566A4BCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login\Login.csproj", "{8CC46579-757F-40D9-82AF-984E9D2F7E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "History", "HistroyPlot\History.csproj", "{1927F9BF-FF66-4552-8A49-AE31F32D87A9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "HealthMonitor", "HealthMonitor\HealthMonitor.vdproj", "{E6605337-28E2-47EA-BFCF-6319E97F792C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2899054C-BBCF-4702-98E2-C5E3566A4BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2899054C-BBCF-4702-98E2-C5E3566A4BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2899054C-BBCF-4702-98E2-C5E3566A4BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2899054C-BBCF-4702-98E2-C5E3566A4BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC46579-757F-40D9-82AF-984E9D2F7E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC46579-757F-40D9-82AF-984E9D2F7E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC46579-757F-40D9-82AF-984E9D2F7E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC46579-757F-40D9-82AF-984E9D2F7E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1927F9BF-FF66-4552-8A49-AE31F32D87A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1927F9BF-FF66-4552-8A49-AE31F32D87A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1927F9BF-FF66-4552-8A49-AE31F32D87A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1927F9BF-FF66-4552-8A49-AE31F32D87A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6605337-28E2-47EA-BFCF-6319E97F792C}.Debug|Any CPU.ActiveCfg = Debug
+		{E6605337-28E2-47EA-BFCF-6319E97F792C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD7E8D23-D407-42F8-8A42-FD779EE78096}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\C#_Project\whj\WFPlot\WFPlot\bin\Debug\WFPlot.exe
+D:\C#_Project\whj\WFPlot\WFPlot\bin\Debug\WFPlot.pdb
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.csprojResolveAssemblyReference.cache
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.Properties.Resources.resources
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.csproj.GenerateResource.Cache
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.csproj.CoreCompileInputs.cache
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.exe
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.pdb
+D:\C#_Project\whj\WFPlot\WFPlot\bin\Debug\Newtonsoft.Json.dll
+D:\C#_Project\whj\WFPlot\WFPlot\bin\Debug\Newtonsoft.Json.xml
+D:\C#_Project\whj\WFPlot\WFPlot\obj\Debug\WFPlot.Plot.resources
+D:\C#_Project\whj\WFPlot\WFPlot\bin\Debug\HistroyPlot.exe
+D:\C#_Project\whj\WFPlot\WFPlot\bin\Debug\HistroyPlot.pdb

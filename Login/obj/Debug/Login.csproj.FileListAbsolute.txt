@@ -1,0 +1,13 @@
+D:\C#_Project\whj\WFPlot\Login\bin\Debug\Login.exe
+D:\C#_Project\whj\WFPlot\Login\bin\Debug\Login.pdb
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.Login.resources
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.Properties.Resources.resources
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.exe
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.pdb
+D:\C#_Project\whj\WFPlot\Login\bin\Debug\WFPlot.exe
+D:\C#_Project\whj\WFPlot\Login\bin\Debug\WFPlot.pdb
+D:\C#_Project\whj\WFPlot\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+D:\C#_Project\whj\WFPlot\Login\bin\Debug\HistroyPlot.exe
+D:\C#_Project\whj\WFPlot\Login\bin\Debug\HistroyPlot.pdb
