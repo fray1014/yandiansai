@@ -18,8 +18,9 @@ namespace WFPlot
         Dictionary<string, string> d = new Dictionary<string, string>() { { "id=1","321"} };
         public double[] d1Heartbeat = new double[900];
         public double[] d1Breathe = new double[900];
-        public Queue<double> q1Heartbeat = new Queue<double>(25);
-        public Queue<double> q1Breathe = new Queue<double>(100);
+        public double[] plotSin = new double[150];//一个周期采N个点
+        public Queue<double> q1Heartbeat = new Queue<double>(50);
+        public Queue<double> q1Breathe = new Queue<double>(300);
         bool isOK = false;
         public static int index = 0;
         public static int flag = 1;
@@ -39,17 +40,17 @@ namespace WFPlot
 
         private void t1_Tick(object sender, EventArgs e)
         {
-            index = index % 900;
-            if (q1Heartbeat.Count == 25)
+            //index = index % plotSin.Length;
+            if (q1Heartbeat.Count == 50)
             {
                 q1Heartbeat.Dequeue();
             }
-            if (q1Breathe.Count == 100)
+            if (q1Breathe.Count == 300)
             {
                 q1Breathe.Dequeue();
             }
             q1Breathe.Enqueue(d1Breathe[index]);
-            q1Heartbeat.Enqueue(d1Heartbeat[index]);
+            q1Heartbeat.Enqueue(plotSin[index]);
             chHB1.Series[0].Points.DataBindY(q1Heartbeat);
             chB1.Series[0].Points.DataBindY(q1Breathe);
             
@@ -63,7 +64,7 @@ namespace WFPlot
 
         private void btnID1En_Click(object sender, EventArgs e)
         {
-            t1.Enabled = true;
+            //t1.Enabled = true;
             timerB1.Enabled = true;
             timerHB1.Enabled = true;
             labS1.Text = "状态：使用中";
@@ -98,7 +99,18 @@ namespace WFPlot
             Random r = new Random();
             HB1 = r.Next(60, 75);
             labHB1.Text = Convert.ToString(HB1);
-            t1.Interval = HB1 / 2;
+            //double w = Math.PI * HB1/3000;
+            for (int i = 0; i < HB1; i++)
+            {
+                plotSin[i] = Math.Sin((double)(Math.PI/180*360*i/HB1));
+            }
+            index = 0;
+            t1.Interval = 1000 / HB1;
+            if (t1.Enabled == false)
+            {
+                t1.Enabled = true;
+            }
+            
         }
 
         private void timerB1_Tick(object sender, EventArgs e)

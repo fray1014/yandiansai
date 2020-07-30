@@ -29,30 +29,30 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea1 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend1 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series1 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series2 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea3 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend3 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series3 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea4 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend4 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series4 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea5 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend5 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series5 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea6 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend6 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series6 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea7 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend7 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series7 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea8 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
-            System.Windows.Forms.DataVisualization.Charting.Legend legend8 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series8 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea17 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend17 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series17 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea18 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend18 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series18 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea19 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend19 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series19 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea20 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend20 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series20 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea21 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend21 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series21 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea22 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend22 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series22 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea23 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend23 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series23 = new System.Windows.Forms.DataVisualization.Charting.Series();
+            System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea24 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
+            System.Windows.Forms.DataVisualization.Charting.Legend legend24 = new System.Windows.Forms.DataVisualization.Charting.Legend();
+            System.Windows.Forms.DataVisualization.Charting.Series series24 = new System.Windows.Forms.DataVisualization.Charting.Series();
             this.chart1 = new System.Windows.Forms.DataVisualization.Charting.Chart();
             this.t1 = new System.Windows.Forms.Timer(this.components);
             this.chart2 = new System.Windows.Forms.DataVisualization.Charting.Chart();
@@ -118,22 +118,23 @@
             // 
             // chart1
             // 
-            chartArea1.AxisY.LabelStyle.Enabled = false;
-            chartArea1.Name = "ChartArea1";
-            this.chart1.ChartAreas.Add(chartArea1);
-            legend1.Name = "Legend1";
-            this.chart1.Legends.Add(legend1);
-            this.chart1.Location = new System.Drawing.Point(658, 396);
+            chartArea17.AxisY.LabelStyle.Enabled = false;
+            chartArea17.Name = "ChartArea1";
+            this.chart1.ChartAreas.Add(chartArea17);
+            legend17.Name = "Legend1";
+            this.chart1.Legends.Add(legend17);
+            this.chart1.Location = new System.Drawing.Point(877, 495);
+            this.chart1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chart1.Name = "chart1";
-            series1.ChartArea = "ChartArea1";
-            series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series1.Legend = "Legend1";
-            series1.LegendText = "呼吸率";
-            series1.Name = "Series1";
-            series1.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series1.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart1.Series.Add(series1);
-            this.chart1.Size = new System.Drawing.Size(438, 138);
+            series17.ChartArea = "ChartArea1";
+            series17.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series17.Legend = "Legend1";
+            series17.LegendText = "呼吸率";
+            series17.Name = "Series1";
+            series17.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series17.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart1.Series.Add(series17);
+            this.chart1.Size = new System.Drawing.Size(584, 172);
             this.chart1.TabIndex = 0;
             this.chart1.Text = "chart1";
             // 
@@ -144,117 +145,126 @@
             // 
             // chart2
             // 
-            chartArea2.AxisY.LabelStyle.Enabled = false;
-            chartArea2.Name = "ChartArea1";
-            this.chart2.ChartAreas.Add(chartArea2);
-            legend2.Name = "Legend1";
-            this.chart2.Legends.Add(legend2);
-            this.chart2.Location = new System.Drawing.Point(235, 396);
+            chartArea18.AxisY.LabelStyle.Enabled = false;
+            chartArea18.Name = "ChartArea1";
+            this.chart2.ChartAreas.Add(chartArea18);
+            legend18.Name = "Legend1";
+            this.chart2.Legends.Add(legend18);
+            this.chart2.Location = new System.Drawing.Point(313, 495);
+            this.chart2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chart2.Name = "chart2";
-            series2.ChartArea = "ChartArea1";
-            series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series2.Legend = "Legend1";
-            series2.LegendText = "心率";
-            series2.Name = "Series1";
-            series2.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series2.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart2.Series.Add(series2);
-            this.chart2.Size = new System.Drawing.Size(417, 138);
+            series18.ChartArea = "ChartArea1";
+            series18.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series18.Legend = "Legend1";
+            series18.LegendText = "心率";
+            series18.Name = "Series1";
+            series18.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series18.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart2.Series.Add(series18);
+            this.chart2.Size = new System.Drawing.Size(556, 172);
             this.chart2.TabIndex = 7;
             this.chart2.Text = "chart2";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(575, 462);
+            this.label4.Location = new System.Drawing.Point(767, 578);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(53, 12);
+            this.label4.Size = new System.Drawing.Size(67, 15);
             this.label4.TabIndex = 11;
             this.label4.Text = "实时心率";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(1001, 459);
+            this.label6.Location = new System.Drawing.Point(1335, 574);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(65, 12);
+            this.label6.Size = new System.Drawing.Size(82, 15);
             this.label6.TabIndex = 13;
             this.label6.Text = "实时呼吸率";
             // 
             // labB1
             // 
             this.labB1.AutoSize = true;
-            this.labB1.Location = new System.Drawing.Point(1001, 161);
+            this.labB1.Location = new System.Drawing.Point(1335, 201);
+            this.labB1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labB1.Name = "labB1";
-            this.labB1.Size = new System.Drawing.Size(65, 12);
+            this.labB1.Size = new System.Drawing.Size(82, 15);
             this.labB1.TabIndex = 23;
             this.labB1.Text = "实时呼吸率";
             // 
             // labHB1
             // 
             this.labHB1.AutoSize = true;
-            this.labHB1.Location = new System.Drawing.Point(575, 161);
+            this.labHB1.Location = new System.Drawing.Point(767, 201);
+            this.labHB1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labHB1.Name = "labHB1";
-            this.labHB1.Size = new System.Drawing.Size(53, 12);
+            this.labHB1.Size = new System.Drawing.Size(67, 15);
             this.labHB1.TabIndex = 22;
             this.labHB1.Text = "实时心率";
             // 
             // chHB1
             // 
-            chartArea3.AxisY.LabelStyle.Enabled = false;
-            chartArea3.Name = "ChartArea1";
-            this.chHB1.ChartAreas.Add(chartArea3);
-            legend3.Name = "Legend1";
-            this.chHB1.Legends.Add(legend3);
-            this.chHB1.Location = new System.Drawing.Point(235, 108);
+            chartArea19.AxisY.LabelStyle.Enabled = false;
+            chartArea19.Name = "ChartArea1";
+            this.chHB1.ChartAreas.Add(chartArea19);
+            legend19.Name = "Legend1";
+            this.chHB1.Legends.Add(legend19);
+            this.chHB1.Location = new System.Drawing.Point(313, 135);
+            this.chHB1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chHB1.Name = "chHB1";
-            series3.ChartArea = "ChartArea1";
-            series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series3.Legend = "Legend1";
-            series3.LegendText = "心率";
-            series3.Name = "Series1";
-            series3.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series3.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chHB1.Series.Add(series3);
-            this.chHB1.Size = new System.Drawing.Size(417, 138);
+            series19.ChartArea = "ChartArea1";
+            series19.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series19.Legend = "Legend1";
+            series19.LegendText = "心率";
+            series19.Name = "Series1";
+            series19.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series19.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chHB1.Series.Add(series19);
+            this.chHB1.Size = new System.Drawing.Size(556, 172);
             this.chHB1.TabIndex = 21;
             this.chHB1.Text = "chart5";
             // 
             // chB1
             // 
-            chartArea4.AxisY.LabelStyle.Enabled = false;
-            chartArea4.Name = "ChartArea1";
-            this.chB1.ChartAreas.Add(chartArea4);
-            legend4.Name = "Legend1";
-            this.chB1.Legends.Add(legend4);
-            this.chB1.Location = new System.Drawing.Point(656, 108);
+            chartArea20.AxisY.LabelStyle.Enabled = false;
+            chartArea20.Name = "ChartArea1";
+            this.chB1.ChartAreas.Add(chartArea20);
+            legend20.Name = "Legend1";
+            this.chB1.Legends.Add(legend20);
+            this.chB1.Location = new System.Drawing.Point(875, 135);
+            this.chB1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chB1.Name = "chB1";
-            series4.ChartArea = "ChartArea1";
-            series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series4.Legend = "Legend1";
-            series4.LegendText = "呼吸率";
-            series4.Name = "Series1";
-            series4.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series4.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chB1.Series.Add(series4);
-            this.chB1.Size = new System.Drawing.Size(438, 138);
+            series20.ChartArea = "ChartArea1";
+            series20.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series20.Legend = "Legend1";
+            series20.LegendText = "呼吸率";
+            series20.Name = "Series1";
+            series20.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series20.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chB1.Series.Add(series20);
+            this.chB1.Size = new System.Drawing.Size(584, 172);
             this.chB1.TabIndex = 20;
             this.chB1.Text = "chart6";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(7, 166);
+            this.label9.Location = new System.Drawing.Point(9, 208);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(29, 12);
+            this.label9.Size = new System.Drawing.Size(38, 15);
             this.label9.TabIndex = 19;
             this.label9.Text = "ID：";
             // 
             // btnID1En
             // 
-            this.btnID1En.Location = new System.Drawing.Point(180, 161);
+            this.btnID1En.Location = new System.Drawing.Point(240, 201);
+            this.btnID1En.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnID1En.Name = "btnID1En";
-            this.btnID1En.Size = new System.Drawing.Size(49, 23);
+            this.btnID1En.Size = new System.Drawing.Size(65, 29);
             this.btnID1En.TabIndex = 18;
             this.btnID1En.Text = "确认";
             this.btnID1En.UseVisualStyleBackColor = true;
@@ -262,17 +272,19 @@
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(54, 163);
+            this.textBox3.Location = new System.Drawing.Point(72, 204);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(120, 21);
+            this.textBox3.Size = new System.Drawing.Size(159, 25);
             this.textBox3.TabIndex = 17;
             // 
             // labS1
             // 
             this.labS1.AutoSize = true;
-            this.labS1.Location = new System.Drawing.Point(7, 136);
+            this.labS1.Location = new System.Drawing.Point(9, 170);
+            this.labS1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labS1.Name = "labS1";
-            this.labS1.Size = new System.Drawing.Size(77, 12);
+            this.labS1.Size = new System.Drawing.Size(97, 15);
             this.labS1.TabIndex = 24;
             this.labS1.Text = "状态：未使用";
             // 
@@ -280,9 +292,10 @@
             // 
             this.label17.AutoSize = true;
             this.label17.Font = new System.Drawing.Font("幼圆", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label17.Location = new System.Drawing.Point(255, 24);
+            this.label17.Location = new System.Drawing.Point(340, 30);
+            this.label17.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(655, 33);
+            this.label17.Size = new System.Drawing.Size(817, 40);
             this.label17.TabIndex = 35;
             this.label17.Text = "基于智能手机的非接触式多生理参数监测系统";
             // 
@@ -290,9 +303,10 @@
             // 
             this.labDate.AutoSize = true;
             this.labDate.Font = new System.Drawing.Font("幼圆", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.labDate.Location = new System.Drawing.Point(12, 9);
+            this.labDate.Location = new System.Drawing.Point(16, 11);
+            this.labDate.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labDate.Name = "labDate";
-            this.labDate.Size = new System.Drawing.Size(88, 16);
+            this.labDate.Size = new System.Drawing.Size(109, 20);
             this.labDate.TabIndex = 36;
             this.labDate.Text = "欢迎使用，";
             // 
@@ -305,16 +319,18 @@
             "2020/7/14-10:50:06",
             "2020/7/13-18:44:17",
             "2020/7/13-12:00:08"});
-            this.cbHis1.Location = new System.Drawing.Point(54, 199);
+            this.cbHis1.Location = new System.Drawing.Point(72, 249);
+            this.cbHis1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbHis1.Name = "cbHis1";
-            this.cbHis1.Size = new System.Drawing.Size(120, 20);
+            this.cbHis1.Size = new System.Drawing.Size(159, 23);
             this.cbHis1.TabIndex = 38;
             // 
             // btnH1
             // 
-            this.btnH1.Location = new System.Drawing.Point(180, 197);
+            this.btnH1.Location = new System.Drawing.Point(240, 246);
+            this.btnH1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnH1.Name = "btnH1";
-            this.btnH1.Size = new System.Drawing.Size(49, 23);
+            this.btnH1.Size = new System.Drawing.Size(65, 29);
             this.btnH1.TabIndex = 39;
             this.btnH1.Text = "确认";
             this.btnH1.UseVisualStyleBackColor = true;
@@ -323,44 +339,49 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(7, 202);
+            this.label2.Location = new System.Drawing.Point(9, 252);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(41, 12);
+            this.label2.Size = new System.Drawing.Size(52, 15);
             this.label2.TabIndex = 40;
             this.label2.Text = "历史：";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(7, 108);
+            this.label7.Location = new System.Drawing.Point(9, 135);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(35, 12);
+            this.label7.Size = new System.Drawing.Size(45, 15);
             this.label7.TabIndex = 41;
             this.label7.Text = "用户1";
             // 
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(7, 261);
+            this.label11.Location = new System.Drawing.Point(9, 326);
+            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(35, 12);
+            this.label11.Size = new System.Drawing.Size(45, 15);
             this.label11.TabIndex = 49;
             this.label11.Text = "用户2";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(7, 355);
+            this.label12.Location = new System.Drawing.Point(9, 444);
+            this.label12.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(41, 12);
+            this.label12.Size = new System.Drawing.Size(52, 15);
             this.label12.TabIndex = 48;
             this.label12.Text = "历史：";
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(180, 350);
+            this.button2.Location = new System.Drawing.Point(240, 438);
+            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(49, 23);
+            this.button2.Size = new System.Drawing.Size(65, 29);
             this.button2.TabIndex = 47;
             this.button2.Text = "确认";
             this.button2.UseVisualStyleBackColor = true;
@@ -368,68 +389,76 @@
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
-            this.comboBox2.Location = new System.Drawing.Point(54, 352);
+            this.comboBox2.Location = new System.Drawing.Point(72, 440);
+            this.comboBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBox2.Name = "comboBox2";
-            this.comboBox2.Size = new System.Drawing.Size(120, 20);
+            this.comboBox2.Size = new System.Drawing.Size(159, 23);
             this.comboBox2.TabIndex = 46;
             // 
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(7, 289);
+            this.label13.Location = new System.Drawing.Point(9, 361);
+            this.label13.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(77, 12);
+            this.label13.Size = new System.Drawing.Size(97, 15);
             this.label13.TabIndex = 45;
             this.label13.Text = "状态：未使用";
             // 
             // label14
             // 
             this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(7, 319);
+            this.label14.Location = new System.Drawing.Point(9, 399);
+            this.label14.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(29, 12);
+            this.label14.Size = new System.Drawing.Size(38, 15);
             this.label14.TabIndex = 44;
             this.label14.Text = "ID：";
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(180, 314);
+            this.button4.Location = new System.Drawing.Point(240, 392);
+            this.button4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(49, 23);
+            this.button4.Size = new System.Drawing.Size(65, 29);
             this.button4.TabIndex = 43;
             this.button4.Text = "确认";
             this.button4.UseVisualStyleBackColor = true;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(54, 316);
+            this.textBox1.Location = new System.Drawing.Point(72, 395);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(120, 21);
+            this.textBox1.Size = new System.Drawing.Size(159, 25);
             this.textBox1.TabIndex = 42;
             // 
             // label19
             // 
             this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(7, 404);
+            this.label19.Location = new System.Drawing.Point(9, 505);
+            this.label19.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(35, 12);
+            this.label19.Size = new System.Drawing.Size(45, 15);
             this.label19.TabIndex = 57;
             this.label19.Text = "用户3";
             // 
             // label20
             // 
             this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(7, 498);
+            this.label20.Location = new System.Drawing.Point(9, 622);
+            this.label20.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(41, 12);
+            this.label20.Size = new System.Drawing.Size(52, 15);
             this.label20.TabIndex = 56;
             this.label20.Text = "历史：";
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(180, 493);
+            this.button5.Location = new System.Drawing.Point(240, 616);
+            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(49, 23);
+            this.button5.Size = new System.Drawing.Size(65, 29);
             this.button5.TabIndex = 55;
             this.button5.Text = "确认";
             this.button5.UseVisualStyleBackColor = true;
@@ -437,68 +466,76 @@
             // comboBox3
             // 
             this.comboBox3.FormattingEnabled = true;
-            this.comboBox3.Location = new System.Drawing.Point(54, 495);
+            this.comboBox3.Location = new System.Drawing.Point(72, 619);
+            this.comboBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBox3.Name = "comboBox3";
-            this.comboBox3.Size = new System.Drawing.Size(120, 20);
+            this.comboBox3.Size = new System.Drawing.Size(159, 23);
             this.comboBox3.TabIndex = 54;
             // 
             // label21
             // 
             this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(7, 432);
+            this.label21.Location = new System.Drawing.Point(9, 540);
+            this.label21.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(77, 12);
+            this.label21.Size = new System.Drawing.Size(97, 15);
             this.label21.TabIndex = 53;
             this.label21.Text = "状态：未使用";
             // 
             // label22
             // 
             this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(7, 462);
+            this.label22.Location = new System.Drawing.Point(9, 578);
+            this.label22.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(29, 12);
+            this.label22.Size = new System.Drawing.Size(38, 15);
             this.label22.TabIndex = 52;
             this.label22.Text = "ID：";
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(180, 457);
+            this.button6.Location = new System.Drawing.Point(240, 571);
+            this.button6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(49, 23);
+            this.button6.Size = new System.Drawing.Size(65, 29);
             this.button6.TabIndex = 51;
             this.button6.Text = "确认";
             this.button6.UseVisualStyleBackColor = true;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(54, 459);
+            this.textBox2.Location = new System.Drawing.Point(72, 574);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(120, 21);
+            this.textBox2.Size = new System.Drawing.Size(159, 25);
             this.textBox2.TabIndex = 50;
             // 
             // label23
             // 
             this.label23.AutoSize = true;
-            this.label23.Location = new System.Drawing.Point(7, 548);
+            this.label23.Location = new System.Drawing.Point(9, 685);
+            this.label23.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(35, 12);
+            this.label23.Size = new System.Drawing.Size(45, 15);
             this.label23.TabIndex = 65;
             this.label23.Text = "用户4";
             // 
             // label24
             // 
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(7, 642);
+            this.label24.Location = new System.Drawing.Point(9, 802);
+            this.label24.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(41, 12);
+            this.label24.Size = new System.Drawing.Size(52, 15);
             this.label24.TabIndex = 64;
             this.label24.Text = "历史：";
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(180, 637);
+            this.button7.Location = new System.Drawing.Point(240, 796);
+            this.button7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(49, 23);
+            this.button7.Size = new System.Drawing.Size(65, 29);
             this.button7.TabIndex = 63;
             this.button7.Text = "确认";
             this.button7.UseVisualStyleBackColor = true;
@@ -506,162 +543,175 @@
             // comboBox4
             // 
             this.comboBox4.FormattingEnabled = true;
-            this.comboBox4.Location = new System.Drawing.Point(54, 639);
+            this.comboBox4.Location = new System.Drawing.Point(72, 799);
+            this.comboBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBox4.Name = "comboBox4";
-            this.comboBox4.Size = new System.Drawing.Size(120, 20);
+            this.comboBox4.Size = new System.Drawing.Size(159, 23);
             this.comboBox4.TabIndex = 62;
             // 
             // label25
             // 
             this.label25.AutoSize = true;
-            this.label25.Location = new System.Drawing.Point(7, 576);
+            this.label25.Location = new System.Drawing.Point(9, 720);
+            this.label25.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(77, 12);
+            this.label25.Size = new System.Drawing.Size(97, 15);
             this.label25.TabIndex = 61;
             this.label25.Text = "状态：未使用";
             // 
             // label26
             // 
             this.label26.AutoSize = true;
-            this.label26.Location = new System.Drawing.Point(7, 606);
+            this.label26.Location = new System.Drawing.Point(9, 758);
+            this.label26.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(29, 12);
+            this.label26.Size = new System.Drawing.Size(38, 15);
             this.label26.TabIndex = 60;
             this.label26.Text = "ID：";
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(180, 601);
+            this.button8.Location = new System.Drawing.Point(240, 751);
+            this.button8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(49, 23);
+            this.button8.Size = new System.Drawing.Size(65, 29);
             this.button8.TabIndex = 59;
             this.button8.Text = "确认";
             this.button8.UseVisualStyleBackColor = true;
             // 
             // textBox4
             // 
-            this.textBox4.Location = new System.Drawing.Point(54, 603);
+            this.textBox4.Location = new System.Drawing.Point(72, 754);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(120, 21);
+            this.textBox4.Size = new System.Drawing.Size(159, 25);
             this.textBox4.TabIndex = 58;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(1001, 310);
+            this.label3.Location = new System.Drawing.Point(1335, 388);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(65, 12);
+            this.label3.Size = new System.Drawing.Size(82, 15);
             this.label3.TabIndex = 69;
             this.label3.Text = "实时呼吸率";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(575, 310);
+            this.label5.Location = new System.Drawing.Point(767, 388);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(53, 12);
+            this.label5.Size = new System.Drawing.Size(67, 15);
             this.label5.TabIndex = 68;
             this.label5.Text = "实时心率";
             // 
             // chart3
             // 
-            chartArea5.AxisY.LabelStyle.Enabled = false;
-            chartArea5.Name = "ChartArea1";
-            this.chart3.ChartAreas.Add(chartArea5);
-            legend5.Name = "Legend1";
-            this.chart3.Legends.Add(legend5);
-            this.chart3.Location = new System.Drawing.Point(235, 252);
+            chartArea21.AxisY.LabelStyle.Enabled = false;
+            chartArea21.Name = "ChartArea1";
+            this.chart3.ChartAreas.Add(chartArea21);
+            legend21.Name = "Legend1";
+            this.chart3.Legends.Add(legend21);
+            this.chart3.Location = new System.Drawing.Point(313, 315);
+            this.chart3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chart3.Name = "chart3";
-            series5.ChartArea = "ChartArea1";
-            series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series5.Legend = "Legend1";
-            series5.LegendText = "心率";
-            series5.Name = "Series1";
-            series5.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series5.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart3.Series.Add(series5);
-            this.chart3.Size = new System.Drawing.Size(417, 138);
+            series21.ChartArea = "ChartArea1";
+            series21.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series21.Legend = "Legend1";
+            series21.LegendText = "心率";
+            series21.Name = "Series1";
+            series21.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series21.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart3.Series.Add(series21);
+            this.chart3.Size = new System.Drawing.Size(556, 172);
             this.chart3.TabIndex = 67;
             this.chart3.Text = "chart3";
             // 
             // chart4
             // 
-            chartArea6.AxisY.LabelStyle.Enabled = false;
-            chartArea6.Name = "ChartArea1";
-            this.chart4.ChartAreas.Add(chartArea6);
-            legend6.Name = "Legend1";
-            this.chart4.Legends.Add(legend6);
-            this.chart4.Location = new System.Drawing.Point(656, 252);
+            chartArea22.AxisY.LabelStyle.Enabled = false;
+            chartArea22.Name = "ChartArea1";
+            this.chart4.ChartAreas.Add(chartArea22);
+            legend22.Name = "Legend1";
+            this.chart4.Legends.Add(legend22);
+            this.chart4.Location = new System.Drawing.Point(875, 315);
+            this.chart4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chart4.Name = "chart4";
-            series6.ChartArea = "ChartArea1";
-            series6.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series6.Legend = "Legend1";
-            series6.LegendText = "呼吸率";
-            series6.Name = "Series1";
-            series6.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series6.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart4.Series.Add(series6);
-            this.chart4.Size = new System.Drawing.Size(438, 138);
+            series22.ChartArea = "ChartArea1";
+            series22.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series22.Legend = "Legend1";
+            series22.LegendText = "呼吸率";
+            series22.Name = "Series1";
+            series22.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series22.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart4.Series.Add(series22);
+            this.chart4.Size = new System.Drawing.Size(584, 172);
             this.chart4.TabIndex = 66;
             this.chart4.Text = "chart4";
             // 
             // chart8
             // 
-            chartArea7.AxisY.LabelStyle.Enabled = false;
-            chartArea7.Name = "ChartArea1";
-            this.chart8.ChartAreas.Add(chartArea7);
-            legend7.Name = "Legend1";
-            this.chart8.Legends.Add(legend7);
-            this.chart8.Location = new System.Drawing.Point(656, 540);
+            chartArea23.AxisY.LabelStyle.Enabled = false;
+            chartArea23.Name = "ChartArea1";
+            this.chart8.ChartAreas.Add(chartArea23);
+            legend23.Name = "Legend1";
+            this.chart8.Legends.Add(legend23);
+            this.chart8.Location = new System.Drawing.Point(875, 675);
+            this.chart8.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chart8.Name = "chart8";
-            series7.ChartArea = "ChartArea1";
-            series7.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series7.Legend = "Legend1";
-            series7.LegendText = "呼吸率";
-            series7.Name = "Series1";
-            series7.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series7.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart8.Series.Add(series7);
-            this.chart8.Size = new System.Drawing.Size(438, 138);
+            series23.ChartArea = "ChartArea1";
+            series23.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series23.Legend = "Legend1";
+            series23.LegendText = "呼吸率";
+            series23.Name = "Series1";
+            series23.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series23.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart8.Series.Add(series23);
+            this.chart8.Size = new System.Drawing.Size(584, 172);
             this.chart8.TabIndex = 70;
             this.chart8.Text = "chart8";
             // 
             // chart7
             // 
-            chartArea8.AxisY.LabelStyle.Enabled = false;
-            chartArea8.Name = "ChartArea1";
-            this.chart7.ChartAreas.Add(chartArea8);
-            legend8.Name = "Legend1";
-            this.chart7.Legends.Add(legend8);
-            this.chart7.Location = new System.Drawing.Point(235, 540);
+            chartArea24.AxisY.LabelStyle.Enabled = false;
+            chartArea24.Name = "ChartArea1";
+            this.chart7.ChartAreas.Add(chartArea24);
+            legend24.Name = "Legend1";
+            this.chart7.Legends.Add(legend24);
+            this.chart7.Location = new System.Drawing.Point(313, 675);
+            this.chart7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.chart7.Name = "chart7";
-            series8.ChartArea = "ChartArea1";
-            series8.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series8.Legend = "Legend1";
-            series8.LegendText = "心率";
-            series8.Name = "Series1";
-            series8.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
-            series8.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.chart7.Series.Add(series8);
-            this.chart7.Size = new System.Drawing.Size(417, 138);
+            series24.ChartArea = "ChartArea1";
+            series24.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
+            series24.Legend = "Legend1";
+            series24.LegendText = "心率";
+            series24.Name = "Series1";
+            series24.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.UInt32;
+            series24.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
+            this.chart7.Series.Add(series24);
+            this.chart7.Size = new System.Drawing.Size(556, 172);
             this.chart7.TabIndex = 71;
             this.chart7.Text = "chart7";
             // 
             // label16
             // 
             this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(575, 598);
+            this.label16.Location = new System.Drawing.Point(767, 748);
+            this.label16.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(53, 12);
+            this.label16.Size = new System.Drawing.Size(67, 15);
             this.label16.TabIndex = 72;
             this.label16.Text = "实时心率";
             // 
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(1001, 598);
+            this.label15.Location = new System.Drawing.Point(1335, 748);
+            this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(65, 12);
+            this.label15.Size = new System.Drawing.Size(82, 15);
             this.label15.TabIndex = 73;
             this.label15.Text = "实时呼吸率";
             // 
@@ -677,9 +727,9 @@
             // 
             // Plot
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1106, 703);
+            this.ClientSize = new System.Drawing.Size(1475, 879);
             this.Controls.Add(this.label15);
             this.Controls.Add(this.label16);
             this.Controls.Add(this.chart7);
@@ -730,6 +780,7 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.chart2);
             this.Controls.Add(this.chart1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Plot";
             this.Text = "实时数据";
             this.Load += new System.EventHandler(this.Plot_Load);
