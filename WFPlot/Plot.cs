@@ -96,8 +96,16 @@ namespace WFPlot
 
         private void timerHB1_Tick(object sender, EventArgs e)
         {
-            Random r = new Random();
-            HB1 = r.Next(60, 75);
+            try
+            {
+                HB1 = Convert.ToInt32(Comm.HttpGet(url, type));
+            }
+            catch(Exception ex)
+            {
+                Random r = new Random();
+                HB1 = r.Next(60, 75);
+            }
+            
             labHB1.Text = Convert.ToString(HB1);
             //double w = Math.PI * HB1/3000;
             for (int i = 0; i < HB1; i++)
